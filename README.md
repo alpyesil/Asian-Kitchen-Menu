@@ -5,7 +5,7 @@ It's a simple to-do app using vanilla React. All the comments are written in Tur
 ## Install
 First, clone the repository into your local workspace:
 ```
-    git clone https://github.com/alpyesil/JS-ILE-ASIAN-KITCHEN-MENU.git
+    git clone https://github.com/alpyesil/Asian-Kitchen-Menu.git
 ```
 
 Then, navigate into the project directory:
